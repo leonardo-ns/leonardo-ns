@@ -1,5 +1,7 @@
 # 💫 Sobre Mim:
-sou desenvolvedor backend, estudo na fatec mogi das cruzes, gosto muito de tecnologia des de o ensino fundamental, fiz cursos de logica de programaçao ao longo do tempo e consolidei minha base no backend<br>sou proativo e gosto de me envolver nos projetos e ajudar no desenvolvimento, sou bem sociavel e gosto de trabalhar em equipe<br><br>
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes e apaixonado por tecnologia desde cedo. Tenho foco em desenvolvimento Backend, com base sólida em lógica de programação e arquitetura de sistemas.
+
+Me destaco pela proatividade, facilidade para trabalhar em equipe e pela energia para ajudar o time a tirar ideias do papel.<br><br>
 
 
 ## 🌐 Contato:
